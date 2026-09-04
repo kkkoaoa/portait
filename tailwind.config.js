@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{js,jsx}'], theme: { extend: { fontFamily: { sans:['"Noto Sans SC"','sans-serif'], display:['"Noto Sans SC"','sans-serif'] } } }, plugins: [] };
